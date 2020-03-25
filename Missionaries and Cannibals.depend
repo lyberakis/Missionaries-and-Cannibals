@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585162912 source:c:\users\vasilis\documents\hmmy\10ο εξάμηνο\Τεχνητή Νοημοσύνη\missionaries and cannibals\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
